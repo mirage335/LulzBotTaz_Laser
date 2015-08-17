@@ -1,4 +1,4 @@
-Mounting hardware and electronics for NDB7875 diode and LulzBot Taz. 
+# Mounting hardware and electronics for NDB7875 diode and LulzBot Taz. 
 
 Specifically designed for NDB7875 diode and LulzBot Taz. Maximum output power is 3W, and 50um/2mil line widths have been achieved (see "Photos/07-PrecisionEngraveTest.jpg". Large quantities of ~3mm thick wood shutter slats have been trimmed with this setup, and many solder paste stencils have been rendered.
 
